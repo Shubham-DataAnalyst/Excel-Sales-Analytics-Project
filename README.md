@@ -1,4 +1,6 @@
-Sales Report:
+***Sales-and-Finance-Analytics-Report-of-AtliQ-Hardware***
+
+**Sales Report:**
 
 Project Objectives:
 
@@ -12,7 +14,7 @@ Significance of Sales Data Analysis: Revealing sales trends, monitoring crucial 
 
 Role of Reports: Determining effective customer incentives, aiding negotiations, and pinpointing expansion opportunities in potential markets.
 
-Finance Report:
+**Finance Report:**
 
 Project Objectives:
 
@@ -28,7 +30,7 @@ Role of Reports: Aligning financial planning with strategic objectives and insti
 
 Technical & Soft Skills:
 
-Technical Skills:
+**Technical Skills:**
 
 Mastery in ETL (Extract, Transform, Load) methodology.
 
@@ -42,7 +44,7 @@ Skillful integration of supplementary data into existing data models.
 
 Proficient use of DAX for developing calculated columns.
 
-Soft Skills:
+**Soft Skills:**
 
 Thorough comprehension of Sales & Finance Reports.
 
